@@ -39,7 +39,7 @@ In Western Australia, the emergency services are served by an extensive communic
 ### Emergency Services Radio
 WAERN DEFS DPAW etc.
 
-[WAERN Frequency List (Markdown)](./ESR)
+[WAERN Frequency List (Markdown)](./ESR.mdß)
 
 [WAERN Frequency List (PDF)](./Resources/WARSUG-WAERN-freqs.pdf)
 
