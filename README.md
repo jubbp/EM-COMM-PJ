@@ -51,11 +51,27 @@ methods described in this plan will be predominantly based on Amateur Radio,
 it is important to remember that no encryption is allowed in on the Amateur Radio
 Bands.
 
-There are ways you can obvuskate your communications to make them less obvious.
+There are ways you can obfuscate your communications to make them less obvious.
 
 * Use "non-standard" frequencies
 * Digital rather than analogue
 * Code words and predefined phrases
+
+## Information is King
+
+During an emergency event, access to information is of utmost importance. Without
+timely and accurate information you can not make decisions which may affect you,
+your family and friends.
+
+To gather information you can:
+
+* Listen to official radio sources
+* listen to broadcast radio
+* read official govt information
+* read/listen/watch media reports
+
+A cental location for verified information is important. From this central location
+others should be able retieve the information.
 
 ## Tools
 
@@ -100,3 +116,50 @@ frequency.
 
 [WAERN Frequency List (Markdown)](./ESR.md)  
 [WAERN Frequency List (PDF)](./Resources/WARSUG-WAERN-freqs.pdf)
+
+
+## EMCOMM Information System Project
+
+Lets design an information, gathering, storing and deceminating system.
+
+### Gathering
+
+**TODO:** How will we gather the information?
+
+### Storing
+
+**TODO:** How will we store the information?
+
+* Messages should have a priority
+* Messages should have expiry
+
+### Desceminating
+
+#### BEACONS
+
+Setup and beacon on a predefined frequency that will trasmit voice information
+
+* Beacon should announce itself
+* Beacon will read "messages" stored in the system using voice to text
+* Beacon should annouce how to participate
+
+#### APRS
+
+Should we beacon messages or should be be on request?
+Possibly, beacon that system is active, message retrival by request??
+
+#### PACKET BBS?
+
+Should we make the messages available by packet radio in a BBS style interface?
+
+#### AREDN
+
+Should we make a web interface available on the AREDN network??
+
+#### WEB
+
+Should we make a web/API interface available on the internet??
+
+#### HF Digtial
+
+JS8CALL etc..... 
