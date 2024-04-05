@@ -17,11 +17,11 @@ The following is a listing of WAERN frequencies in use by DEFS in Western Austra
 | 164.6125 MHz| FM | 377| 6AR Control - Wanneroo |  |
 | 163.6750 MHz| FM | 371| 6AR Control - Canning Mills |  |
 | 164.3375 MHz| FM | 220| 6AR Control - Jarrahdale |  |
-| 164.3125 MHz| FM | 217 | 6AR Control Northbridge Tunnel |  |
+| 164.3125 MHz| FM | 217 | 6AR Control - Pinjarra |  |
 | 163.0875 MHz| FM | 105| 6AR Control - Bindoon |  |
 | 162.6000 MHz| FM | 263| 6AR Control - Two Rocks |  |
 | 164.1625 MHz| FM | 246| 6AR Control - Lancelin |  |
-| 163.712 MHz| FM | 207| 6AR Control - Hacketts Gully  |  |
+| 164.2750 MHz| FM | 207| 6AR Control - Hacketts Gully  |  |
 | 165.1875 MHz| FM | 380| 6AR Control - Red Hill |  |
 
 ### DFES Simplex Frequencies
