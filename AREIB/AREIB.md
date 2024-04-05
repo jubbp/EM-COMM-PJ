@@ -1,4 +1,4 @@
-# Amatuer Radio Emergency Beacon Project
+# Amatuer Radio Emergency Information Beacon Project
 
 Lets design an information, gathering, storing and deceminating system.
 
