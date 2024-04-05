@@ -41,10 +41,10 @@ frequencies, satellites, nets, meetings, Hamfests, etc.
 ## APRS REFERNCE DOCUMENTATION
 
 [aprs.org](http://www.aprs.org)
-<img src="./Images/www.png" width="20" alt="www link"> [^1]  
+<img src="./Images/www.png" width="20" alt="www link"> This is some text[^1]  
 [aprs.queries.pdf](./Resources/APRS/aprs.queries.pdf) - List of APRS queries
 and bots complied in 2018.  
 [Bob Bruninga WB4APS SK - ARRL](https://web.archive.org/web/20240120042059/http://www.arrl.org/news/aprs-developer-bob-bruninga-wb4apr-sk)
 <img src="./Images/www.png" width="20" alt="www link">
 
-[^1]
+[^1]: Icon use by permission and attribution to <www.flaticon.com>
