@@ -71,7 +71,7 @@ Setup and beacon on a predefined frequency that will trasmit voice information
 ### APRS
 
 Should we beacon messages or should be be on request?
-Possibly, beacon that system is active, message retrival by request??
+Possibly, beacon that system is active, message retrieval by request??
 
 ### PACKET BBS?
 

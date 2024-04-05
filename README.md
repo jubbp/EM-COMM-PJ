@@ -74,7 +74,7 @@ To gather information you can:
 * read official govt information
 * read/listen/watch media reports
 
-A cental location for verified information is important. From this central location
+A central location for verified information is important. From this central location
 others should be able retieve the information.
 
 ## 🔹 Tools
