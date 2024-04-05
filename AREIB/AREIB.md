@@ -21,6 +21,43 @@ What should we call this project? Some options for consideration:
 * Messages should have a priority
 * Messages should have expiry
 
+Lets define a data model...
+
+### Basic Message Storage
+
+```json
+{
+    "id"      : Number,      # Unique Message ID
+    "type"    : String,      #
+    "created" : datetime,
+    "callsign": String,
+    "priority": Number,
+    "message" : String,
+    "ttl"     : Number
+}
+```
+
+### Service Status Message Storage
+
+```json
+{
+    "id"      : Number,
+    "type"    : String,
+    "created" : datetime,
+    "callsign": String,
+    "priority": Number,
+    "message" : String,
+    "ttl"     : Number
+}
+```
+
+### Message Types
+
+* Basic Information
+* Service Status
+* Assistance Request
+* 
+
 ## Desceminating
 
 ### BEACONS
