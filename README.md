@@ -5,9 +5,11 @@
 ## Table of Contents
 
 * [Introduction](./README#introduction)
+* [Security Considerations](./README#security-considerations)
 * [Tools](./README#tools)
 * [Reference Resources](README#reference-resources)
 * [Emergency Services Radio](README#emergency-services-radio)
+* [Amateur Radio Emergency Information Beacon Project](README#amatuer-radio-emergency-beacon-project)
 
 ## Introduction
 
@@ -77,7 +79,7 @@ others should be able retieve the information.
 
 * Analogue Voice
 * Digital Voice
-* APRS
+* [APRS](./APRS.MD)
 * APRS Messaging
 * Winlink email
 * JS8Call
@@ -117,49 +119,8 @@ frequency.
 [WAERN Frequency List (Markdown)](./ESR.md)  
 [WAERN Frequency List (PDF)](./Resources/WARSUG-WAERN-freqs.pdf)
 
-
-## EMCOMM Information System Project
+## Amatuer Radio Emergency Beacon Project
 
 Lets design an information, gathering, storing and deceminating system.
 
-### Gathering
-
-**TODO:** How will we gather the information?
-
-### Storing
-
-**TODO:** How will we store the information?
-
-* Messages should have a priority
-* Messages should have expiry
-
-### Desceminating
-
-#### BEACONS
-
-Setup and beacon on a predefined frequency that will trasmit voice information
-
-* Beacon should announce itself
-* Beacon will read "messages" stored in the system using voice to text
-* Beacon should annouce how to participate
-
-#### APRS
-
-Should we beacon messages or should be be on request?
-Possibly, beacon that system is active, message retrival by request??
-
-#### PACKET BBS?
-
-Should we make the messages available by packet radio in a BBS style interface?
-
-#### AREDN
-
-Should we make a web interface available on the AREDN network??
-
-#### WEB
-
-Should we make a web/API interface available on the internet??
-
-#### HF Digtial
-
-JS8CALL etc..... 
+Check out the [design and specifications](./AREIB/AREIB.md)
