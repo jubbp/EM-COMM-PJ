@@ -1,6 +1,11 @@
 # Emergency Services Radio Frequencies
+
 ## WAERN Frequency Table
+
+The following is a listing of WAERN frequencies in use by DEFS in Western Australia.
+
 ### DEFS Control Frequencies
+
 | Frequency | Mode | Channel | Decription | Confirmed |
 | --- | --- | --- | --- | -- |
 | 163.7125 MHz| FM | 372| 6AR Control  - Bunbury | Jan 2024 |
@@ -20,6 +25,7 @@
 | 165.1875 MHz| FM | 380| 6AR Control - Red Hill |  |
 
 ### DFES Simplex Frequencies
+
 | Frequency | Mode | Channel | Decription | Confirmed |
 | --- | --- | --- | --- | -- |
 | 161.2875 MHz| FM | 354| Simplex 01 | |

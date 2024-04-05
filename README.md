@@ -2,7 +2,7 @@
 
 <img src="./Images/IMG_1691.PNG" width="100" alt="EmComm Logo">
 
-## Table of Contents
+## 🔹 Table of Contents
 
 * [Introduction](./README#introduction)
 * [Security Considerations](./README#security-considerations)
@@ -11,11 +11,13 @@
 * [Emergency Services Radio](README#emergency-services-radio)
 * [Amateur Radio Emergency Information Beacon Project](README#amatuer-radio-emergency-beacon-project)
 
-## Introduction
+## 🔹 Introduction
 
 This document is my work to investigate and document an emcomms methodology.
+This EmComm plan is designed for my own use and as such will largely focus on
+Western Australia 🇦🇺, but the concepts will be transferable to most locations.
 
-### What is EmComm?
+### 🔹 What is EmComm?
 
 EmComm is short for Emergency Communications. It is a procedure/method
  of maintaining reliable and effective communications during an emergency.
@@ -26,13 +28,13 @@ maybe disrupted.
 EmComm should not be about any one particular technology or mode of
 communication, but should be about the communication itself.
 
-### Why do we need EmComm?
+### 🔹 Why do we need EmComm?
 
 In the event of a disruption to normal life, communication is a vital resource
 for all. This is where EmComm and Amateur Radio Operators can step up to assist
 the community.
 
-### Who may need our assitance
+### 🔹 Who may need our assistance
 
 There are many who may need our assistance. They are probably not those that
 you might think of first.
@@ -46,7 +48,7 @@ of [Emergecy Services Radio resources](./README#emergency-services-radio).
 * Our Family
 * Our Friends
 
-## Security Considerations
+## 🔹 Security Considerations
 
 The security of our communications could be important to us. As the communications
 methods described in this plan will be predominantly based on Amateur Radio,
@@ -59,7 +61,7 @@ There are ways you can obfuscate your communications to make them less obvious.
 * Digital rather than analogue
 * Code words and predefined phrases
 
-## Information is King
+## 🔹 Information is King
 
 During an emergency event, access to information is of utmost importance. Without
 timely and accurate information you can not make decisions which may affect you,
@@ -75,7 +77,7 @@ To gather information you can:
 A cental location for verified information is important. From this central location
 others should be able retieve the information.
 
-## Tools
+## 🔹 Tools
 
 * Analogue Voice
 * Digital Voice
@@ -89,18 +91,18 @@ others should be able retieve the information.
 
 **TODO:**  "How to" page for basic operation of each tool.
 
-## Resources
+## 🔹 Resources
 
 A list of resources usefull when developing an EmComm strategy.
 
-### Software Projects
+### 🔹 Software Projects
 
 * Digipi
 * EmCommTools
 
-## Reference Resources
+## 🔹 Reference Resources
 
-### Emergency Services Radio
+### 🔹 Emergency Services Radio
 
 The Emergency Services in Western Australia operate several command and control
 radio networks. The WA Police operate a secure encrypted voice and data network.
@@ -119,7 +121,7 @@ frequency.
 [WAERN Frequency List (Markdown)](./ESR.md)  
 [WAERN Frequency List (PDF)](./Resources/WARSUG-WAERN-freqs.pdf)
 
-## Amatuer Radio Emergency Beacon Project
+## 🔹 Amatuer Radio Emergency Beacon Project
 
 Lets design an information, gathering, storing and deceminating system.
 

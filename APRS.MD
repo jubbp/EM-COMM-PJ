@@ -10,8 +10,9 @@ Automatic Packet Reporting System
 
 ## History of APRS
 
-| APRS was developed by Bob  Bruninga, WB4APR (SK) | <img src="./Images/APRS/BobBruningaHeadshot.png" alt="Bob Bruninga Head Shot" width="90"> |
-|---|---|
+🫡APRS was developed by Bob  Bruninga, WB4APR (SK) 
+<img src="./Images/APRS/BobBruningaHeadshot.png" alt="Bob Bruninga Head Shot"
+width="90">
 
 APRS is digital communications information channel for Ham radio. As a single
 national channel (see map at right), it gives the mobile ham a place to monitor
@@ -40,9 +41,10 @@ frequencies, satellites, nets, meetings, Hamfests, etc.
 ## APRS REFERNCE DOCUMENTATION
 
 [aprs.org](http://www.aprs.org)
-<img src="./Images/www.png" width="20" alt="www link">  
+<img src="./Images/www.png" width="20" alt="www link"> [^1]  
 [aprs.queries.pdf](./Resources/APRS/aprs.queries.pdf) - List of APRS queries
 and bots complied in 2018.  
 [Bob Bruninga WB4APS SK - ARRL](https://web.archive.org/web/20240120042059/http://www.arrl.org/news/aprs-developer-bob-bruninga-wb4apr-sk)
 <img src="./Images/www.png" width="20" alt="www link">
 
+[^1]
