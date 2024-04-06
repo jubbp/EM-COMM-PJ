@@ -44,3 +44,4 @@ The following is a listing of WAERN frequencies in use by DEFS in Western Austra
 | 161.0625 MHz| FM | 367| Simplex 14 | |
 | 161.4125 MHz| FM | 368| Simplex 15 | |
 | 161.3375 MHz| FM | 369| Simplex 16 | |
+
