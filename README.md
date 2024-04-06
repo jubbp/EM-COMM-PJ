@@ -83,7 +83,7 @@ others should be able retieve the information.
 * Digital Voice
 * [APRS](./APRS.MD)
 * APRS Messaging
-* Winlink email
+* [Winlink email](./Winlink.md)
 * JS8Call
 * AREDN
 * email
@@ -101,6 +101,8 @@ A list of resources usefull when developing an EmComm strategy.
 * EmCommTools
 
 ## 🦺 Reference Resources
+
+Below is some reference material collected from various sources. 
 
 ### 🦺 Emergency Services Radio
 
