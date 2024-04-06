@@ -30,4 +30,4 @@ Winlink can be operated in a couple of modes. **Gateway mode** where you connect
 
 ## Forms
 
-Winlink has the ability to create emails based on an agreed selection of message templates or forms. 
+Winlink has the ability to create emails based on an agreed selection of message templates called forms. 
