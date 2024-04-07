@@ -15,7 +15,13 @@
 
 This document is my work to investigate and document an emcomms methodology.
 This EmComm plan is designed for my own use and as such will largely focus on
-Western Australia 🇦🇺, but the concepts will be transferable to most locations.
+Western Australia 🇦🇺, but the concepts will be transferable to most locations. 
+
+This is a living document, it will change and grow over time so make sure you come back regularly. 
+
+Collaboration is encouraged. These documents hosted on GitHub and editable by all. 
+
+Please feel free to contact me vk6dev@gmail.com
 
 ### 🦺 What is EmComm?
 
@@ -48,6 +54,8 @@ of [Emergecy Services Radio resources](./README#emergency-services-radio).
 * Our Family
 * Our Friends
 
+How will we interact with the wider community? How will we assist those organisations that need communications during an emergency. 
+
 ## 🦺 Security Considerations
 
 The security of our communications could be important to us. As the communications
@@ -60,6 +68,7 @@ There are ways you can obfuscate your communications to make them less obvious.
 * Use "non-standard" frequencies
 * Digital rather than analogue
 * Code words and predefined phrases
+* Use a commercial service where encryption is allowed
 
 ## 🦺 Information is King
 
@@ -73,9 +82,19 @@ To gather information you can:
 * listen to broadcast radio
 * read official govt information
 * read/listen/watch media reports
+* listen to your local amateur radio news
 
 A central location for verified information is important. From this central location
 others should be able retieve the information.
+
+## 🦺 Training
+
+Like everything we do in life, **practice makes perfect**
+Having a methodology for emergency communications is no good is you don’t know it works. 
+If nobody knows how to use it, how will they know how to do it when it’s really needed. 
+
+* drills 
+* nets
 
 ## 🦺 Tools
 
@@ -85,11 +104,13 @@ others should be able retieve the information.
 * APRS Messaging
 * [Winlink email](./Winlink.md)
 * JS8Call
+* VaraAC
 * AREDN
 * email
 * aprsd
 
 **TODO:**  "How to" page for basic operation of each tool.
+
 
 ## 🦺 Resources
 
