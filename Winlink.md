@@ -12,7 +12,7 @@ Winlink is a program allowing the transmission of email between Amateur Radio st
 
 * Winlink Express
 * Pat Winlink
-* RadioMail
+* RadioMail [^1]
 
 ### Modem Software
 
@@ -31,3 +31,9 @@ Winlink can be operated in a couple of modes. **Gateway mode** where you connect
 ## Forms
 
 Winlink has the ability to create emails based on an agreed selection of message templates called forms. 
+
+[^1]:
+## RadioMail
+
+* Apple IOS
+
