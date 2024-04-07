@@ -33,7 +33,7 @@ Winlink can be operated in a couple of modes. **Gateway mode** where you connect
 Winlink has the ability to create emails based on an agreed selection of message templates called forms. 
 
 [^1]:
-## RadioMail
+    ## RadioMail
 
-* Apple IOS
+    * Apple IOS
 
