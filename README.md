@@ -148,14 +148,13 @@ frequency.
 ### 🦺 Citizens Band (CB) Radio Frequencies
 
 **UHF CB** Frequencies
+
 | Channel | Frequency | Notes |
 | --- | --- | --- |
 | 1 | 476.425000 | |
 | 2 | 476.450000 | |
 | 3 | 476.475000 | |
 | 4 | 476.500000 | |
-
-
 | 5 | 476.525000 | Emergency |
 | 6 | 476.550000 | |
 | 7 | 476.575000 | |
