@@ -16,16 +16,15 @@
   - [WEB](#web)
   - [HF Digtial](#hf-digtial)
 
-
 Lets design an information, gathering, storing and deceminating system.
 
 ## Naming Options
 
 What should we call this project? Some options for consideration:
 
-* Amateur Radio Information Beacon
-* Emergency Communication Beacon
-* **TODO:** work on some better alternatives
+- Amateur Radio Information Beacon
+- Emergency Communication Beacon
+- **TODO:** work on some better alternatives
 
 ## Gathering
 
@@ -35,8 +34,8 @@ What should we call this project? Some options for consideration:
 
 **TODO:** How will we store the information?
 
-* Messages should have a priority
-* Messages should have expiry
+- Messages should have a priority
+- Messages should have expiry
 
 Lets define a data model...
 
@@ -70,12 +69,13 @@ Lets define a data model...
 
 ### Message Types
 
-* Basic Information
-* Service Status
-* Assistance Request
-* 
+- Basic Information
+- Service Status
+- Assistance Request
 
 ## Desceminating
+
+How will we get thi information out of the system?
 
 ### BEACONS
 
