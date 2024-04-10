@@ -25,6 +25,7 @@
   - [Emergency Services Radio](#emergency-services-radio)
   - [Citizens Band (CB) Radio](#citizens-band-cb-radio)
   - [AusTavel Safety Net](#austavel-safety-net)
+  - [Useful Amateur Radio Frequencies](#useful-amateur-radio-frequencies)
 - [Amatuer Radio Emergency Beacon Project](#amatuer-radio-emergency-beacon-project)
 
 ## Introduction
@@ -143,6 +144,8 @@ A list of resources usefull when developing an EmComm strategy.
 
 Below is some reference material collected from various sources.
 
+**TODO:** Document BOM weather radio and weather fax freuqncies and procedures.
+
 **TODO:** Find some information regarding WAPOL and STJOHN's radio networks for reference.
 
 **TODO:** SES radio resources??
@@ -179,6 +182,14 @@ These documents are available from [The ACMA Wesbite](http://www.legislation.gov
 ### AusTavel Safety Net
 
 **TODO:** Add austravel details and frequencies
+
+### Useful Amateur Radio Frequencies
+
+| Frequency | Description |
+|---|---|
+| 146.500 | 2m Calling Frequency |
+| 145.175 | Primary APRS Frequency |
+
 
 ## Amatuer Radio Emergency Beacon Project
 

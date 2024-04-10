@@ -5,6 +5,8 @@ Automatic Packet Reporting System
 ## Table of Contents <!-- omit from toc -->
 
 - [History of APRS](#history-of-aprs)
+- [Key facts](#key-facts)
+- [Operating APRS in an Emergency](#operating-aprs-in-an-emergency)
 - [APRS Bots and Auto Stations](#aprs-bots-and-auto-stations)
 - [APRS REFERNCE DOCUMENTATION](#aprs-refernce-documentation)
 
@@ -26,6 +28,18 @@ frequencies, satellites, nets, meetings, Hamfests, etc.
 *World map showing APRS frequencies*
 
 **TODO:** Add some historical information regarding APRS
+
+## Key facts
+
+- Primary APRS frequency in Australia on 2m is 145.175 Mhz
+
+## Operating APRS in an Emergency
+
+In an emergency, there is the possiblility that the main APRS frequency will
+become swamped.  You should build a comms plan that includes an alternate
+frequency in the event the the primary frequency become too conjested. Note that
+this aternate frequency will not have digipeaters and igates available unless
+you make them part of your plan.
 
 ## APRS Bots and Auto Stations
 
