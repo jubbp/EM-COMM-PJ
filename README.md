@@ -20,13 +20,11 @@
   - [AusTavel Safety Net](#austavel-safety-net)
 - [Amatuer Radio Emergency Beacon Project](#amatuer-radio-emergency-beacon-project)
 
-
-
 ## Introduction
 
 This document is my work to investigate and document an emcomms methodology.
 This EmComm plan is designed for my own use and as such will largely focus on
-Western Australia 🇦🇺, but the concepts will be transferable to most locations. 
+Western Australia 🇦🇺, but the concepts will be transferable to most locations.
 
 This is a living document, it will change and grow over time so make sure you 
 come back regularly.
@@ -136,7 +134,7 @@ A list of resources usefull when developing an EmComm strategy.
 
 ## Reference Resources
 
-Below is some reference material collected from various sources. 
+Below is some reference material collected from various sources.
 
 ### Emergency Services Radio
 
@@ -156,22 +154,20 @@ frequency.
 [WAERN Frequency List (PDF)](./Resources/WARSUG-WAERN-freqs.pdf)  
 [WAERN Channel (Chirp Import CSV)](./Resources/WAERN-FREQ-IMPORT-CHIRP.csv)
 
-### Citizens Band (CB) Radio 
+### Citizens Band (CB) Radio
 
-Citizens Band Radio in Australia operates under the Citizend Band radios 
+Citizens Band Radio in Australia operates under the Citizend Band radios
 stations class license. The regulations regarding CB radio can be found in the
 Radiocommunications Act 1992 and the Citizens Band Radio Stations Class License
 2015 and their various ammendments.
 
 These documents are available from [The ACMA Wesbite](http://www.legislation.gov.au/Series/F2015L00876)
 
-**TODO:** Create Chirp CSV for UHF and HF Frequencies
-
-[CB Radio Frequencies (MarkDown)](./CB-Radio.md)
+[CB Radio Page](./CB-Radio.md)
 
 ### AusTavel Safety Net
 
-**TODO:** Add austravel details and frequencies 
+**TODO:** Add austravel details and frequencies
 
 ## Amatuer Radio Emergency Beacon Project
 
