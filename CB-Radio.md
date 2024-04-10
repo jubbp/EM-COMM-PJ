@@ -4,6 +4,12 @@
 
 - [UHF CB Frequencies](#uhf-cb-frequencies)
 - [HF CB Fequencies](#hf-cb-fequencies)
+- [CB Radio History in Australia](#cb-radio-history-in-australia)
+  - [Pre-Legalisation](#pre-legalisation)
+  - [Legalisation](#legalisation)
+  - [End of 27MHz](#end-of-27mhz)
+  - [CB Today](#cb-today)
+  - [References](#references)
 
 ## UHF CB Frequencies
 
@@ -139,3 +145,120 @@ impropper  use or interferance.
 | 38 | 27.385 Mhz | |
 | 39 | 27.395 Mhz | |
 | 40 | 27.405 Mhz | |
+
+## CB Radio History in Australia
+
+The following information was gathered from [https://radiorescue.org.au/cb-radio/cb-history/](https://web.archive.org/web/20240313112038/https://radiorescue.org.au/cb-radio/cb-history/)
+
+### Pre-Legalisation
+
+Citizens Band Radio (CB) was not legal in Australia until 1977, even though it
+was gaining popularity in the USA where it was already legal. In the Australian
+Senate on 1st December 1976, Senator Kilgariff directed a question to Senator
+Carrick, representing the Minister for Post and Telecommunications, regarding
+the plan to legalise CB in Australia, stating that there were some 25,000
+Australians currently using CB that were unlicensed. In response, Sen. Carrick
+said that estimates from the Department of Post and Telecommunications placed
+the number of unlicensed CB operators in Australia at between 15,000 and 20,000,
+and the one concern held at the time was the potential for interference to other
+services.1
+
+At this time there was no radiocommunications service available for personal
+communications (Amateur Radio was intended for scientific and experimental use).
+Various CB clubs, including the National Citizens Radio Association (NCRA),
+Australian Citizens Radio Movement (ACRM, later to become Australian Citizen
+Radio Monitors), Citizens Radio Emergency Service Teams (CREST), and numerous
+truck drivers, all petitioned the Government from 1974 for the legalisation of
+a CB service in Australia. A significant number of 23 channel 27MHz CB sets from
+the USA had made their way into the Australian CB scene and were being used
+illegally, given that the band was already in use by the Amateur Radio service.
+
+### Legalisation
+
+27MHz CB was formally legalised at a meeting of the National Cabinet on 2nd June
+1977 where the Hon. Eric Robinson, Minister for Post and Telecommunications,
+submitted that some 50,000 CB sets were currently being used illegally in
+Australia. He submitted that the licensing of CB equipment in the HF band
+(27MHz) be approved for a period of 3 years, and that the CB service be moved to
+a UHF band after that. This was to allow current CB users to have a suitable
+return on their investment in current CB equipment, and allow Australian
+manufacturers time to equip themselves to make UHF CB equipment for the
+Australian market. The licence fee was initially set at $20.2
+
+Following this meeting CB was legalised as of 1st July 1977 using the existing
+23 channel sets imported from the USA (26.965-27.245MHz), although an Australian
+18 channel standard (27.015-27.225MHz), along with UHF, was introduced on 1st
+January 1978 under RB249. Licensing was under the Handphone option of the
+Wireless Telegraphy Act and Regulations. The allocation of a channel designated
+for emergencies (channel 5 on both 27MHz 18ch and UHF bands) only came after
+the initial legalisation and was disclosed in a question to the Minister for
+Post and Telecommunications during the 31st Parliament on 3rd April 1979.
+Although this question was posed from the viewpoint of a channel for CREST, the
+Minister recognised that a number of volunteer groups provided emergency monitoring.3
+
+### End of 27MHz
+
+The cut-off date for the 27MHz band was set as 30th June 1982, with 21 days for
+27MHz operators to cease transmissions on this band. As the 1982 deadline for
+the complete transfer of CB to the UHF band approached, users of the 27MHz CB
+equipment rallied to keep the band alive. CB groups protested against the
+removal of the 27MHz band. Motorcades were run in every major city and petitions
+were lodged with the Government. These petitions also called for an expansion of
+the 27MHz band to 40 channels, mirroring the USA band 26.965-27.405MHz, and
+retention of the dual-band 27MHz and UHF CB service.4, 5, 6, 7, 8
+
+These petitions and protests were successful, and the Government not only
+removed the “use by” date for 27MHz but expanded the service to the 40 channels
+it still has today. While fees changed over time, initially “per radio”, then
+“up to 5 radios”, the need to obtain an individual licence for your CB station
+continued until 3rd October 1994 when the Citizen Band Radio Stations Class
+Licence was introduced (announced by Roger Smith, Acting Spectrum Manager,
+Spectrum Management Agency).9 This removed the need for CB users to apply for a
+licence and pay an annual fee, but it did not remove any of the legal channel
+designations or conditions of use that had previously appeared in the RB14/DOC14
+documents.
+
+### CB Today
+
+Today, the CB service in Australia continues as a dual-band service with 40
+channels between 26.965 and 27.405MHz (AM/SSB, 10kHz steps) and 80 channels
+between 476.4250 and 477.4125MHz (FM, 12.5kHz steps). While the 27MHz band is
+the same as that used in the USA and several European CEPT countries, the UHF
+band is unique to Australia and New Zealand. All CB equipment must also comply
+with Australian/New Zealand Standards and be approved for use on the CB bands
+with either the Regulatory Compliance Mark (RCM), or the older C-Tick (also
+known as “type-approved”). It should be noted that many people incorrectly
+believe all UHF commercial equipment approved for use on the Land Mobile
+Service (LMS) can be used on UHF CB. In fact, not all LMS equipment is
+dual-approved for use on LMS and CB services.
+
+### References
+
+Commonwealth of Australia, Senate, Debates, 1 December 1976, viewed 22 October
+2023, http://historichansard.net/senate/1976/19761201_senate_30_s70. ↩︎
+
+National Archives of Australia: Cabinet Office; A12909, Second, Third, Fourth
+and Fifth Fraser Ministries – Cabinet Submissions (with Decisions), May 1977 –
+2 June 1977; 1307, Submission No 1307 : Licensing of transceivers for personal
+communications – Citizens Band Radio – Decision 3172. ↩︎
+
+Commonwealth of Australia, House of Representatives, Debates, 3 April 1979,
+viewed 22 October 2023, http://historichansard.net/hofreps/1979/19790403_reps_31_hor113. ↩︎
+
+Commonwealth of Australia, Senate, Debates, 27 August 1980, viewed 22 October
+2023, http://historichansard.net/senate/1980/19800827_senate_31_s86. ↩︎
+
+Commonwealth of Australia, Senate, Debates, 10 September 1980, viewed 22
+October 2023, http://historichansard.net/senate/1980/19800910_senate_31_s86. ↩︎
+
+Commonwealth of Australia, Senate, Debates, 20 August 1980, viewed 22 October 2023, http://historichansard.net/senate/1980/19800820_senate_31_s86. ↩︎
+
+Commonwealth of Australia, Senate, Debates, 31 March 1980, viewed 22 October
+2023, http://historichansard.net/senate/1980/19800331_senate_31_s84. ↩︎
+
+Commonwealth of Australia, Senate, Debates, 30 April 1980, viewed 22 October
+2023, http://historichansard.net/senate/1980/19800430_senate_31_s85. ↩︎
+
+Commonwealth of Australia, Radiocommunications Act 1992 Citizen Band Radio 
+Stations Class Licence. Commonwealth of Australia Gazette. Special (National :
+1977 – 2012). National, September 16, 1994. Viewed 22 October 2023, http://nla.gov.au/nla.news-article240385824. ↩︎
