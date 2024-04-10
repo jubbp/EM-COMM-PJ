@@ -11,6 +11,8 @@
   - [CB Today](#cb-today)
   - [References](#references)
 
+**TODO:** Create Chirp CSV for UHF and HF Frequencies
+
 ## UHF CB Frequencies
 
 Channels in UHF CB are generally 12.5 Khz wide.  
