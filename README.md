@@ -55,7 +55,7 @@ the community.
 There are many who may need our assistance. They are probably not those that
 you might think of first.
 In Western Australia, the emergency services are served by an extensive
-communication network whihc is multi-redundant and resilient. See the section
+communication network which is multi-redundant and resilient. See the section
 of [Emergecy Services Radio resources](./README#emergency-services-radio).
 
 - Community Organisations
@@ -135,6 +135,10 @@ A list of resources usefull when developing an EmComm strategy.
 ## Reference Resources
 
 Below is some reference material collected from various sources.
+
+**TODO:** Find some information regarding WAPOL and STJOHN's radio networks for reference.
+
+**TODO:** SES radio resources??
 
 ### Emergency Services Radio
 

@@ -4,6 +4,8 @@
 
 - [UHF CB Frequencies](#uhf-cb-frequencies)
 - [HF CB Fequencies](#hf-cb-fequencies)
+- [CB Radio Clubs in Western Australia](#cb-radio-clubs-in-western-australia)
+- [CB Radio Repeaters in Western Australia](#cb-radio-repeaters-in-western-australia)
 - [CB Radio History in Australia](#cb-radio-history-in-australia)
   - [Pre-Legalisation](#pre-legalisation)
   - [Legalisation](#legalisation)
@@ -147,6 +149,28 @@ impropper  use or interferance.
 | 38 | 27.385 Mhz | |
 | 39 | 27.395 Mhz | |
 | 40 | 27.405 Mhz | |
+
+## CB Radio Clubs in Western Australia
+
+- [Northside Radio Association](http://northsideradio.weebly.com)
+
+## CB Radio Repeaters in Western Australia
+
+| Callsign | Channel | Location | Sponsor |
+| --- | --- | --- | --- |
+| BTN06 | 6 | Bridgetown | NRA |
+| ALB03 | 3 | Albany | NRA |
+| PER04 | 4 | Perth - North Eastern Suburbs - Ellenbrook | NRA |
+| PER05 | 5 | Perth - Eastern Suburbs - Martin/Roleystone | NRA |
+| BUN02 | 2 | Bunbury - Brunswick Junction | NRA |
+| MTB07 | 7 | Mount Barker | NRA |
+| KAL01 | 1 | Kalgoorlie | NRA |
+| ROC46 | 46 | Rockingham - Naval Base | NRA |
+| MTJ07 | 7 | Mandurah | NRA |
+| BIN02 | 2 | Bindoon | NRA |
+| PER01 | 1 | Wanneroo | NRA |
+| MNP06 | 6 | ManyPeaks (Stirlings) | NRA |
+| PER08 | 8 | Perth CBD | NRA |
 
 ## CB Radio History in Australia
 
