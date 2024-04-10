@@ -1,6 +1,13 @@
 # 🦺 Emcomm Notes by Phil VK6DEV <!-- omit from toc -->
 
-<img src="./Images/IMG_1691.PNG" width="100" alt="EmComm Logo">
+<style>
+.img-align-right {
+    float: right;
+    margin: 0 0 0 15px;
+}
+</style>
+
+<img src="./Images/IMG_1691.PNG" class="img-align-right" width="50" alt="EmComm Logo">
 
 ## Table of Contents <!-- omit from toc -->
 
