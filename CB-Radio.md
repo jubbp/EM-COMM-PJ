@@ -1,4 +1,9 @@
-# CB Radio
+# CB Radio <!-- omit from toc -->
+
+## Table of Contents <!-- omit from toc -->
+
+- [UHF CB Frequencies](#uhf-cb-frequencies)
+- [HF CB Fequencies](#hf-cb-fequencies)
 
 ## UHF CB Frequencies
 

@@ -1,17 +1,28 @@
-# Emcomm Notes by Phil VK6DEV
+# 🦺 Emcomm Notes by Phil VK6DEV <!-- omit from toc -->
 
 <img src="./Images/IMG_1691.PNG" width="100" alt="EmComm Logo">
 
-## 🦺 Table of Contents
+## Table of Contents <!-- omit from toc -->
 
-* [Introduction](./README#introduction)
-* [Security Considerations](./README#security-considerations)
-* [Tools](./README#tools)
-* [Reference Resources](README#reference-resources)
-* [Emergency Services Radio](README#emergency-services-radio)
-* [Amateur Radio Emergency Information Beacon Project](README#amatuer-radio-emergency-beacon-project)
+- [Introduction](#introduction)
+  - [What is EmComm?](#what-is-emcomm)
+  - [Why do we need EmComm?](#why-do-we-need-emcomm)
+  - [Who may need our assistance](#who-may-need-our-assistance)
+- [Security Considerations](#security-considerations)
+- [Information is King](#information-is-king)
+- [Training](#training)
+- [Tools](#tools)
+- [Resources](#resources)
+  - [Software Projects](#software-projects)
+- [Reference Resources](#reference-resources)
+  - [Emergency Services Radio](#emergency-services-radio)
+  - [Citizens Band (CB) Radio](#citizens-band-cb-radio)
+  - [AusTavel Safety Net](#austavel-safety-net)
+- [Amatuer Radio Emergency Beacon Project](#amatuer-radio-emergency-beacon-project)
 
-## 🦺 Introduction
+
+
+## Introduction
 
 This document is my work to investigate and document an emcomms methodology.
 This EmComm plan is designed for my own use and as such will largely focus on
@@ -24,7 +35,7 @@ Collaboration is encouraged. These documents hosted on GitHub and editable by al
 
 Please feel free to contact me <vk6dev@gmail.com>
 
-### 🦺 What is EmComm?
+### What is EmComm?
 
 EmComm is short for Emergency Communications. It is a procedure/method
  of maintaining reliable and effective communications during an emergency.
@@ -35,13 +46,13 @@ maybe disrupted.
 EmComm should not be about any one particular technology or mode of
 communication, but should be about the communication itself.
 
-### 🦺 Why do we need EmComm?
+### Why do we need EmComm?
 
 In the event of a disruption to normal life, communication is a vital resource
 for all. This is where EmComm and Amateur Radio Operators can step up to assist
 the community.
 
-### 🦺 Who may need our assistance
+### Who may need our assistance
 
 There are many who may need our assistance. They are probably not those that
 you might think of first.
@@ -49,16 +60,16 @@ In Western Australia, the emergency services are served by an extensive
 communication network whihc is multi-redundant and resilient. See the section
 of [Emergecy Services Radio resources](./README#emergency-services-radio).
 
-* Community Organisations
-* Local Government
-* Other Amateurs
-* Our Family
-* Our Friends
+- Community Organisations
+- Local Government
+- Other Amateurs
+- Our Family
+- Our Friends
 
 How will we interact with the wider community? How will we assist those
 organisations that need communications during an emergency.
 
-## 🦺 Security Considerations
+## Security Considerations
 
 The security of our communications could be important to us. As the communications
 methods described in this plan will be predominantly based on Amateur Radio,
@@ -67,12 +78,12 @@ Bands.
 
 There are ways you can obfuscate your communications to make them less obvious.
 
-* Use "non-standard" frequencies
-* Digital rather than analogue
-* Code words and predefined phrases
-* Use a commercial service where encryption is allowed
+- Use "non-standard" frequencies
+- Digital rather than analogue
+- Code words and predefined phrases
+- Use a commercial service where encryption is allowed
 
-## 🦺 Information is King
+## Information is King
 
 During an emergency event, access to information is of utmost importance. Without
 timely and accurate information you can not make decisions which may affect you,
@@ -80,54 +91,54 @@ your family and friends.
 
 To gather information you can:
 
-* Listen to official radio sources
-* listen to broadcast radio
-* read official govt information
-* read/listen/watch media reports
-* listen to your local amateur radio news
+- Listen to official radio sources
+- listen to broadcast radio
+- read official govt information
+- read/listen/watch media reports
+- listen to your local amateur radio news
 
 A central location for verified information is important. From this central location
 others should be able retieve the information.
 
-## 🦺 Training
+## Training
 
 Like everything we do in life, **practice makes perfect**
 Having a methodology for emergency communications is no good is you don’t know
 it works.
 If nobody knows how to use it, how will they know how to do it when it’s really needed.
 
-* drills
-* nets
+- drills
+- nets
 
-## 🦺 Tools
+## Tools
 
-* Analogue Voice
-* Digital Voice
-* [APRS](./APRS.MD)
-* APRS Messaging
-* [Winlink email](./Winlink.md)
-* JS8Call
-* VaraAC
-* AREDN
-* email
-* [aprsd](./aprsd.md)
+- Analogue Voice
+- Digital Voice
+- [APRS](./APRS.MD)
+- APRS Messaging
+- [Winlink email](./Winlink.md)
+- JS8Call
+- VaraAC
+- AREDN
+- email
+- [aprsd](./aprsd.md)
 
 **TODO:**  "How to" page for basic operation of each tool.
 
-## 🦺 Resources
+## Resources
 
 A list of resources usefull when developing an EmComm strategy.
 
-### 🦺 Software Projects
+### Software Projects
 
-* Digipi
-* EmCommTools
+- Digipi
+- EmCommTools
 
-## 🦺 Reference Resources
+## Reference Resources
 
 Below is some reference material collected from various sources. 
 
-### 🦺 Emergency Services Radio
+### Emergency Services Radio
 
 The Emergency Services in Western Australia operate several command and control
 radio networks. The WA Police operate a secure encrypted voice and data network.
@@ -145,7 +156,7 @@ frequency.
 [WAERN Frequency List (PDF)](./Resources/WARSUG-WAERN-freqs.pdf)  
 [WAERN Channel (Chirp Import CSV)](./Resources/WAERN-FREQ-IMPORT-CHIRP.csv)
 
-### 🦺 Citizens Band (CB) Radio 
+### Citizens Band (CB) Radio 
 
 Citizens Band Radio in Australia operates under the Citizend Band radios 
 stations class license. The regulations regarding CB radio can be found in the
@@ -158,11 +169,11 @@ These documents are available from [The ACMA Wesbite](http://www.legislation.gov
 
 [CB Radio Frequencies (MarkDown)](./CB-Radio.md)
 
-### 🦺 AusTavel Safety Net
+### AusTavel Safety Net
 
 **TODO:** Add austravel details and frequencies 
 
-## 🦺 Amatuer Radio Emergency Beacon Project
+## Amatuer Radio Emergency Beacon Project
 
 Lets design an information, gathering, storing and deceminating system.
 

@@ -1,12 +1,13 @@
-# APRS General Reference
+# APRS General Reference <!-- omit from toc -->
 
 Automatic Packet Reporting System
 
-## Table of Contents
+## Table of Contents <!-- omit from toc -->
 
-* [History of ARPRS](./APRS#history)
-* [APRS Bots and Auto Stations](./APRS#aprs-bots-and-auto-stations)
-* [Reference Documentation](./APRS#aprs-refernce-documentation)
+- [History of APRS](#history-of-aprs)
+- [APRS Bots and Auto Stations](#aprs-bots-and-auto-stations)
+- [APRS REFERNCE DOCUMENTATION](#aprs-refernce-documentation)
+
 
 ## History of APRS
 

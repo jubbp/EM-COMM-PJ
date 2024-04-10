@@ -1,4 +1,21 @@
-# Amatuer Radio Emergency Information Beacon Project
+# Amatuer Radio Emergency Information Beacon Project <!-- omit from toc -->
+
+## Table of Contents <!-- omit from toc -->
+
+- [Naming Options](#naming-options)
+- [Gathering](#gathering)
+- [Storing](#storing)
+  - [Basic Message Storage](#basic-message-storage)
+  - [Service Status Message Storage](#service-status-message-storage)
+  - [Message Types](#message-types)
+- [Desceminating](#desceminating)
+  - [BEACONS](#beacons)
+  - [APRS](#aprs)
+  - [PACKET BBS?](#packet-bbs)
+  - [AREDN](#aredn)
+  - [WEB](#web)
+  - [HF Digtial](#hf-digtial)
+
 
 Lets design an information, gathering, storing and deceminating system.
 

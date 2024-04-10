@@ -1,4 +1,11 @@
-# Emergency Services Radio Frequencies
+# Emergency Services Radio Frequencies <!-- omit from toc -->
+
+## Table of Contents <!-- omit from toc -->
+
+- [WAERN Frequency Table](#waern-frequency-table)
+  - [DEFS Control Frequencies](#defs-control-frequencies)
+  - [DFES Simplex Frequencies](#dfes-simplex-frequencies)
+
 
 ## WAERN Frequency Table
 

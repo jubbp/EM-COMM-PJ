@@ -1,4 +1,16 @@
-# Winlink
+# Winlink <!-- omit from toc -->
+
+## Table of Contents <!-- omit from toc -->
+
+- [Introduction](#introduction)
+- [History](#history)
+- [Software](#software)
+  - [Client Software](#client-software)
+  - [Modem Software](#modem-software)
+  - [Server/Gateway Software](#servergateway-software)
+- [Operation Modes](#operation-modes)
+- [Forms](#forms)
+
 
 Winlink is a program allowing the transmission of email between Amateur Radio stations and also with any email address 
 
