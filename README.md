@@ -147,89 +147,102 @@ frequency.
 
 ### 🦺 Citizens Band (CB) Radio Frequencies
 
+Citizens Band Radio in Australia operates under the Citizend Band radios 
+stations class license. The regulations regarding CB radio can be found in the
+Radiocommunications Act 1992 and the Citizens Band Radio Stations Class License
+2015 and their various ammendments.
+
+These documents are available from [The ACMA Wesbite](http://www.legislation.gov.au/Series/F2015L00876)
+
 **UHF CB** Frequencies
+
+Channels in UHF CB are generally 12.5 Khz wide.  
+Channels 1-8, 31-39 are reserved for Repeater operation  
+Channel 5 & 35 are reserved for emergency operation only - fines do apply for
+impropper  use or interferance.
 
 | Channel | Frequency | Notes |
 | --- | --- | --- |
-| 1 | 476.425000 | |
-| 2 | 476.450000 | |
-| 3 | 476.475000 | |
-| 4 | 476.500000 | |
-| 5 | 476.525000 | Emergency |
-| 6 | 476.550000 | |
-| 7 | 476.575000 | |
-| 8 | 476.600000 | |
-| 9 | | |
-| 10 | 476.650000 | |
-| 11 | 476.675000 | |
-| 12 | 476.700000 | |
-| 13 | 476.725000 | |
-| 14 | 476.750000 | |
-| 15 | 476.775000 | |
-| 16 | 476.800000 | |
-| 17 | 476.825000 | |
-| 18 | 476.850000 | Caravans and convoys |
-| 19 | 476.875000 | |
-| 20 | 476.900000 | |
-| 21 | 476.925000 | |
-| 22 | | |
-| 23 | | |
-| 24 | 477.000000 | |
-| 25 | 477.025000 | |
-| 26 | 477.050000 | |
-| 27 | 477.075000 | |
-| 28 | 477.100000 | |
-| 29 | 477.125000 | |
-| 30 | 477.150000 | |
-| 31 | | |
-| 32 | | |
-| 33 | | |
-| 34 | | |
-| 35 | | |
-| 36 | | |
-| 37 | | |
-| 38 | | |
-| 39 | 477.375000 | |
-| 40 | 477.400000 | |
-| 41 | | |
-| 42 | | |
-| 43 | | |
-| 44 | | |
-| 45 | | |
-| 46 | | |
-| 47 | | |
-| 48 | | |
-| 49 | 476.637500 | |
-| 50 | 476.662500 | |
-| 51 | 476.687500 | |
-| 52 | 476.712500 | |
-| 53 | 476.737500 | |
-| 54 | 476.762500 | |
-| 55 | 476.787500 | |
-| 56 | 476.812500 | |
-| 57 | 476.837500 | |
-| 58 | 476.862500 | |
-| 59 | 476.887500 | |
-| 60 | | |
-| 61 | | |
-| 62 | | |
-| 63 | | |
-| 64 | | |
-| 65 | | |
-| 66 | | |
-| 67 | | |
-| 68 | | |
-| 69 | | |
-| 70 | | |
-| 71 | | |
-| 72 | | |
-| 73 | | |
-| 74 | | |
-| 75 | | |
-| 76 | | |
-| 77 | | |
-| 78 | | |
-| 79 | | |
+| 1 | 476.425000 | Duplex – Repeater Output |
+| 2 | 476.450000 | Duplex – Repeater Output |
+| 3 | 476.475000 | Duplex – Repeater Output |
+| 4 | 476.500000 | Duplex – Repeater Output |
+| 5 | 476.525000 | **Emergency** - Duplex – Repeater Output |
+| 6 | 476.550000 | Duplex – Repeater Output |
+| 7 | 476.575000 | Duplex – Repeater Output |
+| 8 | 476.600000 | Duplex – Repeater Output |
+| 9 | 476.6250 | Simplex – General Use |
+| 10 | 476.650000 | Simplex – 4WD Drivers, Convoys, Clubs & National Parks |
+| 11 | 476.675000 | Simplex  – Call Channel |
+| 12 | 476.700000 | Simplex – General Use |
+| 13 | 476.725000 | Simplex – General Use |
+| 14 | 476.750000 | Simplex – General Use |
+| 15 | 476.775000 | Simplex – General Use |
+| 16 | 476.800000 | Simplex – General Use |
+| 17 | 476.825000 | Simplex – General Use |
+| 18 | 476.850000 | Simplex - Caravans and Campers Convoy |
+| 19 | 476.875000 | Simplex – General Use |
+| 20 | 476.900000 | Simplex – General Use |
+| 21 | 476.925000 | Simplex – General Use |
+| 22 | 476.9500 | Data Only (No Voice – No Packet) |
+| 23 | 476.9750 | Data Only (No Voice – No Packet) |
+| 24 | 477.000000 | Simplex – General Use |
+| 25 | 477.025000 | Simplex – General Use |
+| 26 | 477.050000 | Simplex – General Use |
+| 27 | 477.075000 | Simplex – General Use |
+| 28 | 477.100000 | Simplex – General Use |
+| 29 | 477.125000 | Simplex – General Use |
+| 30 | 477.150000 | Simplex – UHF CB Broadcasts |
+| 31 | 477.1750 | Repeater Input |
+| 32 | 477.2000 | Repeater Input |
+| 33 | 477.2250 | Repeater Input |
+| 34 | 477.2500 | Repeater Input |
+| 35 | 477.2750 | Repeater Input |
+| 36 | 477.3000 | Repeater Input |
+| 37 | 477.3250 | Repeater Input |
+| 38 | 477.3500 | Repeater Input |
+| 39 | 477.375000 | Simplex – General Use |
+| 40 | 477.400000 | Simplex – Highway Channel |
+| 41 | 476.4375 | Simplex – General Use |
+| 42 | 476.4625 | Simplex – General Use |
+| 43 | 476.4875 | Simplex – General Use |
+| 44 | 476.5125 | Simplex – General Use |
+| 45 | 476.5375 | Simplex – General Use |
+| 46 | 476.5625 | Simplex – General Use |
+| 47 | 476.5875 | Simplex – General Use |
+| 48 | 476.6125 | Simplex – General Use |
+| 49 | 476.637500 | Simplex – General Use |
+| 50 | 476.662500 | Simplex – General Use |
+| 51 | 476.687500 | Simplex – General Use |
+| 52 | 476.712500 | Simplex – General Use |
+| 53 | 476.737500 | Simplex – General Use |
+| 54 | 476.762500 | Simplex – General Use |
+| 55 | 476.787500 | Simplex – General Use |
+| 56 | 476.812500 | Simplex – General Use |
+| 57 | 476.837500 | Simplex – General Use |
+| 58 | 476.862500 | Simplex – General Use |
+| 59 | 476.887500 | Simplex – General Use |
+| 60 | 476.9125 | Simplex – General Use |
+| 61 | | Reserved For Future Expansion |
+| 62 | | Reserved For Future Expansion |
+| 63 | | Reserved For Future Expansion |
+| 64 | 477.0125 | Simplex – General Use |
+| 65 | 477.0375 | Simplex – General Use |
+| 66 | 477.0625 | Simplex – General Use |
+| 67 | 477.0875 | Simplex – General Use |
+| 68 | 477.1125 | Simplex – General Use |
+| 69 | 477.1375 | Simplex – General Use |
+| 70 | 477.1625 | Simplex – General Use |
+| 71 | 477.1875 | Simplex – General Use |
+| 72 | 477.2125 | Simplex – General Use |
+| 73 | 477.2375 | Simplex – General Use |
+| 74 | 477.2625 | Simplex – General Use |
+| 75 | 477.2875 | Simplex – General Use |
+| 76 | 477.3125 | Simplex – General Use |
+| 77 | 477.3375 | Simplex – General Use |
+| 78 | 477.3625 | Simplex – General Use |
+| 79 | 477.3875 | Simplex – General Use |
+| 80 | 477.4125 | Simplex – General Use |
 
 **HF CB** Fequencies
 
@@ -243,7 +256,7 @@ frequency.
 | 6 | 27.025 Mhz | |
 | 7 | 27.035 Mhz | |
 | 8 | 27.055 Mhz | |
-| 9 | 27.065 Mhz | Emergency |
+| 9 | 27.065 Mhz | **Emergency** |
 | 10 | 27.075 Mhz | |
 | 11 | 27.085 Mhz | Call |
 | 12 | 27.105 Mhz | |
