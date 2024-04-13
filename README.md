@@ -17,6 +17,7 @@
   - [Who may need our assistance](#who-may-need-our-assistance)
 - [Security Considerations](#security-considerations)
 - [Information is King](#information-is-king)
+- [VK6DEV Comm Plan](#vk6dev-comm-plan)
 - [Training](#training)
 - [Tools](#tools)
 - [Resources](#resources)
@@ -105,6 +106,12 @@ To gather information you can:
 
 A central location for verified information is important. From this central location
 others should be able retieve the information.
+
+## VK6DEV Comm Plan
+
+Having a plan is important.  
+
+[My Comms Plan](./commsPlan.md)
 
 ## Training
 

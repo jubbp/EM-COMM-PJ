@@ -4,9 +4,25 @@ In the event of an emergency the following is my plan for communications.
 
 ## Table of Contents <!-- omit from toc -->
 
+- [Capabilities](#capabilities)
+  - [Shack Equipment](#shack-equipment)
 - [Voice Communications](#voice-communications)
 - [Information Gathering](#information-gathering)
 - [Digital Communications](#digital-communications)
+
+## Capabilities
+
+### Shack Equipment
+
+Yaesu FT-817 HF/VHF/UHF Transciever
+Icom IC-705 HF/VHF/UHF Transciever
+Icom IC-751 HF Transciever
+Uniden UN700NB UHF CB Transciever
+Kenwood Manual Tuner
+
+BushComm EndFed Trapped Halfwave 40-10m
+Comet GP andtenna for 2m and 70cm
+
 
 ## Voice Communications
 
