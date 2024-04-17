@@ -7,6 +7,8 @@
 - [Shopping List](#shopping-list)
 - [Mini Projects](#mini-projects)
   - [Offline Openstreet Map](#offline-openstreet-map)
+    - [Objectives](#objectives)
+    - [Tasks](#tasks)
   - [Direwolf integrations](#direwolf-integrations)
 
 ## Introduction
@@ -41,9 +43,17 @@ Small projects to prove components of the larger project
 
 ### Offline Openstreet Map
 
+#### Objectives
+
 - Download and cache map tiles
 - Display map on webpage
 - display a local list of POI's on map
+
+#### Tasks
+
+1. Install Ubuntu Desktop
+1. Develop post install script to modify OS config as per ttp emcomm tools project
+1. Wifi Hotspot if no network detected.
 
 ### Direwolf integrations
 
