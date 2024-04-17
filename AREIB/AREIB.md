@@ -4,6 +4,7 @@
 
 - [Naming Options](#naming-options)
 - [Gathering](#gathering)
+  - [A Services Status](#a-services-status)
 - [Storing](#storing)
   - [Basic Message Storage](#basic-message-storage)
   - [Service Status Message Storage](#service-status-message-storage)
@@ -28,7 +29,50 @@ What should we call this project? Some options for consideration:
 
 ## Gathering
 
+What sort of information do we need to gather and then store and distribute??
+
+### A Services Status
+
+ a status that may change over time and be updated.
+
+example 1: A Hospital
+
+An Entity:
+A person/organisation/location that may have some sort of status indicator
+
+```json
+"entity": {
+  "name": String,
+  "hierachy" {
+    ....
+  }
+}
+
+"location": {
+    "type": string, (fixed,roaming)
+    "lat": string, (-33.123456)
+    "lon": String, (115.123456)
+    "locator" : String, (OF76to)
+    "streetAddr" : String, (Cnr William & Hay St)
+  }
+
+
+"status": {
+    "code": Integer, (0-5)
+    "time": dateTime String, ()
+    "message" : String,
+    "
+}
+
+"resource": {
+  "name": String
+
+}
+
+```
+
 **TODO:** How will we gather the information?
+
 
 ## Storing
 
@@ -81,9 +125,9 @@ How will we get thi information out of the system?
 
 Setup and beacon on a predefined frequency that will trasmit voice information
 
-* Beacon should announce itself
-* Beacon will read "messages" stored in the system using voice to text
-* Beacon should annouce how to participate
+- Beacon should announce itself
+- Beacon will read "messages" stored in the system using voice to text
+- Beacon should annouce how to participate
 
 ### APRS
 
