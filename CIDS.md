@@ -5,6 +5,9 @@
 - [Introduction](#introduction)
 - [Components](#components)
 - [Shopping List](#shopping-list)
+- [Mini Projects](#mini-projects)
+  - [Offline Openstreet Map](#offline-openstreet-map)
+  - [Direwolf integrations](#direwolf-integrations)
 
 ## Introduction
 
@@ -31,3 +34,17 @@ where normal networking is not operating.
 - Monitor
 - Keyboard / Mouse
 - bulkhead connectors - Power/LAN/RF??
+
+## Mini Projects
+
+Small projects to prove components of the larger project
+
+### Offline Openstreet Map
+
+- Download and cache map tiles
+- Display map on webpage
+- display a local list of POI's on map
+
+### Direwolf integrations
+
+- recieve APRS packets from Direwolf and store
