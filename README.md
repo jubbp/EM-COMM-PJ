@@ -24,7 +24,9 @@
   - [Software Projects](#software-projects)
 - [Reference Resources](#reference-resources)
   - [Emergency Services Radio](#emergency-services-radio)
-  - [Marine Radio Frequencies](#marine-radio-frequencies)
+  - [Maritime Radio Frequencies](#maritime-radio-frequencies)
+    - [VHF Maritime Frequencies](#vhf-maritime-frequencies)
+    - [HF Maritime Frequencies](#hf-maritime-frequencies)
   - [Citizens Band (CB) Radio](#citizens-band-cb-radio)
   - [AusTavel Safety Net](#austavel-safety-net)
   - [Useful Amateur Radio Frequencies](#useful-amateur-radio-frequencies)
@@ -178,7 +180,9 @@ frequency.
 [WAERN Frequency List (PDF)](./Resources/WARSUG-WAERN-freqs.pdf)  
 [WAERN Channel (Chirp Import CSV)](./Resources/WAERN-FREQ-IMPORT-CHIRP.csv)
 
-### Marine Radio Frequencies
+### Maritime Radio Frequencies
+
+#### VHF Maritime Frequencies
 
 | Channel | Freq Ship | Freq Shore | Notes |
 | --- | --- | --- | --- |
@@ -224,6 +228,14 @@ frequency.
 | 2006 | 160.900 | | Experimental use in relation to Radiotelephony, Digital Selective Calling and Automatic Identification System |
 |2019 | | 161.550 | Port Operations |
 
+#### HF Maritime Frequencies
+
+| Frequency | Notes |
+|---|---|
+| 4125 | Continuous Watch & Distress |
+| 6215 | Continuous Watch & Distress |
+| 8291 | Continuous Watch & Distress |
+
 
 This information gathered from <https://www.acma.gov.au/vhf-maritime-mobile-band-channel-allocations>
 
@@ -251,7 +263,12 @@ These documents are available from [The ACMA Wesbite](http://www.legislation.gov
 
 ### Band Plans
 
-1
+| Frequencies | Description |
+| --- | --- |
+| 144.000 - 148.000 | Amateur Radio 2m Band |
+| 156.000 - 162.050 | Marine Radio VHF Band
+| 430.000 - 450.000 | Amateur Radio 70cm Band |
+
 ### Emergency Management Agencies (Australia)
 
 - Federal Govt.
