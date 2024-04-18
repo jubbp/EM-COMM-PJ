@@ -24,6 +24,7 @@
   - [Software Projects](#software-projects)
 - [Reference Resources](#reference-resources)
   - [Emergency Services Radio](#emergency-services-radio)
+  - [Marine Radio Frequencies](#marine-radio-frequencies)
   - [Citizens Band (CB) Radio](#citizens-band-cb-radio)
   - [AusTavel Safety Net](#austavel-safety-net)
   - [Useful Amateur Radio Frequencies](#useful-amateur-radio-frequencies)
@@ -176,6 +177,55 @@ frequency.
 [WAERN Frequency List (Markdown)](./ESR.md)  
 [WAERN Frequency List (PDF)](./Resources/WARSUG-WAERN-freqs.pdf)  
 [WAERN Channel (Chirp Import CSV)](./Resources/WAERN-FREQ-IMPORT-CHIRP.csv)
+
+### Marine Radio Frequencies
+
+| Channel | Freq Ship | Freq Shore | Notes |
+| --- | --- | --- | --- |
+| 01 | 156.050 | 160.650 | Public Correspondence |
+| 02 | 156.100 | 160.700 | Public Correspondence |
+| 03 | 156.150 | 160.750 | Public Correspondence |
+| 04 | 156.200 | 160.800 | Public Correspondence |
+| 05 | 156.250 | 160.850 | Public Correspondence |
+| 06 | 156.300 | | Search and Rescue |
+| 07 | 156.350 | 160.950 | Public Correspondence |
+| 08 | 156.400 | | Port Operations and Commercial Operations |
+| 09 | 156.450 | | Port Operations |
+| 10 | 156.500 | | Port Operations |
+| 11 | 156.550 | | Port Operations |
+| 12 | 156.600 | | Port Operations |
+| 13 | 156.650 | | Port Operations, Distress, urgency and safety |
+| 14 | 156.700 | | Port Operations |
+| 15 | 156.750 | | Commercial Operations |
+| 16 | 156.800 | | Distress, Safety and Calling |
+| 17 | 156.850 | | Commercial Operations |
+| 18 | 156.900 | | Port Operations |
+| 20 | 157.000 | 161.600 | Port Operations |
+| 60 | 156.025 | 160.625 | Public Correspondence |
+| 61 | 156.075 | 160.675 | Public Correspondence |
+| 62 | 156.125 | 160.725 | Public Correspondence |
+| 63 | 156.175 | 160.775 | Public Correspondence |
+| 64 | 156.225 | 160.825 | Port Operations |
+| 65 | 156.275 | 160.875 | Port Operations |
+| 66 | 156.325 | 160.925 | Public Correspondence |
+| 67 | 156.375 |  | Supplementary to Ch16 (for Distress urgency and Safety) |
+| 68 | 156.425 | | Port Operations |
+| 70 | 156.525 | | Digital Selective Calling – Distress, Safety and Calling |
+| 71 | 156.575 | | Profesional Fishing |
+| 72 | 156.625 | | Port Operations, Commercial and Non-Commercial Operations and Professional Fishing |
+| 73 | 156.675 | | Non-commercial Operations |
+| 74 | 156.725 | | Commercial Operations |
+| 75 | 156.775 | | Automatic Identification System Satellite |
+| 76 | 156.825 | | Automatic Identification System Satellite |
+| 77 | 156.875 | | Professional Fishing, Non-commercial Operations |
+| 78 | 156.925 | | Commercial Operations |
+| 79 | 156.975 | | Port Operations |
+| 1019 | 156.950 | | Port Operations |
+| 2006 | 160.900 | | Experimental use in relation to Radiotelephony, Digital Selective Calling and Automatic Identification System |
+|2019 | | 161.550 | Port Operations |
+
+
+This information gathered from <https://www.acma.gov.au/vhf-maritime-mobile-band-channel-allocations>
 
 ### Citizens Band (CB) Radio
 

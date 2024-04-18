@@ -8,12 +8,12 @@ Automatic Packet Reporting System
 - [Key facts](#key-facts)
 - [Operating APRS in an Emergency](#operating-aprs-in-an-emergency)
 - [APRS Bots and Auto Stations](#aprs-bots-and-auto-stations)
+- [Standard SSID's](#standard-ssids)
 - [APRS REFERNCE DOCUMENTATION](#aprs-refernce-documentation)
-
 
 ## History of APRS
 
-🫡APRS was developed by Bob  Bruninga, WB4APR (SK) 
+🫡APRS was developed by Bob  Bruninga, WB4APR (SK)
 <img src="./Images/APRS/BobBruningaHeadshot.png" alt="Bob Bruninga Head Shot"
 width="90">
 
@@ -52,6 +52,32 @@ you make them part of your plan.
 | WLINK-1 | APRSLink to Winlink | Mar 2024 |
 | AVRS | Automatic Voice Relay System | **Off-line** Apr 2024 |
 | WHO-IS | Call Sign Lookup Service | **Off-line** Apr 2024 |
+
+## Standard SSID's
+
+The following a suggestion of standard SSIDs you can use to identify a station.
+They are not a rule, only a guideline and you are free to use any SSID you wish.
+
+A couple of instance where the design of this list is defective: \-7 for Kenwood
+D7 Handheld is entirely shortsighted, \-4 for HF to VHF gateway is unecessary
+and would only be used a few times globally.
+
+- \-0 (No SSID) Home Station
+- \-1 Digipeater, or Home Station running a Fill-In Digi,
+- \-2 Digipeater [#2] on 70CM
+- \-3 Digipeater [#3]
+- \-4 HF to VHF Gateway
+- \-5 IGate (Dedicated system, not home station)
+- \-6 Operation via Satellite
+- \-7 Kenwood D7 Handheld
+- \-8 Secondary Mobile usage (also Maritime vessels)  (VHF / UHF)
+- \-9 Mobiles (VHF / UHF)
+- \-10 Operation via Internet Only (No RF capability)
+- \-11 is for APRStouch-tone users (also high altitude balloons)
+- \-12 Portable Units such as Laptops, Camp Sites etc
+- \-13
+- \-14 Interstate Truckers
+- \-15 Operation via HF
 
 ## APRS REFERNCE DOCUMENTATION
 
