@@ -27,6 +27,8 @@
   - [Citizens Band (CB) Radio](#citizens-band-cb-radio)
   - [AusTavel Safety Net](#austavel-safety-net)
   - [Useful Amateur Radio Frequencies](#useful-amateur-radio-frequencies)
+  - [Band Plans](#band-plans)
+  - [Emergency Management Agencies (Australia)](#emergency-management-agencies-australia)
 - [Amatuer Radio Emergency Beacon Project](#amatuer-radio-emergency-beacon-project)
 
 ## Introduction
@@ -197,6 +199,21 @@ These documents are available from [The ACMA Wesbite](http://www.legislation.gov
 | 146.500 | 2m Calling Frequency |
 | 145.175 | Primary APRS Frequency |
 
+### Band Plans
+
+1
+### Emergency Management Agencies (Australia)
+
+- Federal Govt.
+  - [National Emergency Management Agency](https://nema.gov.au/#/map)
+  - [Home Affairs](https://www.homeaffairs.gov.au/about-us/our-portfolios/emergency-management)
+  - [Australian Disaster Resilience Knowledge Hub](https://knowledge.aidr.org.au)
+- Western Australia Govt.
+  - [Emergency WA](https://www.emergency.wa.gov.au)
+  - [State Emergency Management Committee](https://www.wa.gov.au/organisation/state-emergency-management-committee)
+  -  [WALGA Emergency Management](https://walga.asn.au/policy-and-advocacy/our-policy-areas/emergency-management)
+  - [SES Cummunications Support Unit](https://csu-ses.com.au)
+  - [Dept of Fire & Emergency Services](https://www.dfes.wa.gov.au) 
 
 ## Amatuer Radio Emergency Beacon Project
 
