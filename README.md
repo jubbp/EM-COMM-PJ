@@ -199,6 +199,11 @@ frequency.
 | 17 | 156.850 | | Commercial Operations |
 | 18 | 156.900 | | Port Operations |
 | 20 | 157.000 | 161.600 | Port Operations |
+| 21 | 157.050 | 161.650 | Repeater (distress, urgency, safety and ship movement) |
+| 22 | 157.100 | 161.700 | Repeater (distress, urgency, safety and ship movement) |
+| 23 | 157.150 | 161.750 | Public Correspondence |
+| 24 | 157.200 | 161.800 | VHF Data Exchange System * |
+| 25 | 157.250 | 161.850 | VHF Data Exchange System * |
 | 60 | 156.025 | 160.625 | Public Correspondence |
 | 61 | 156.075 | 160.675 | Public Correspondence |
 | 62 | 156.125 | 160.725 | Public Correspondence |
@@ -218,10 +223,34 @@ frequency.
 | 77 | 156.875 | | Professional Fishing, Non-commercial Operations |
 | 78 | 156.925 | | Commercial Operations |
 | 79 | 156.975 | | Port Operations |
+| 80 | 157.025 | 161.625 | Repeater (distress, urgency, safety and ship movement) |
+| 81 | 157.075 | 161.675 | Repeater (distress, urgency, safety and ship movement) and Public Correspondence |
+| 82 | 157.125 | 161.725 | Repeater (distress, urgency, safety and ship movement) |
+| 83 | 157.175 | 161.775 | Public Correspondence |
+| 84 | 157.225 | 161.825 | VHF Data Exchange System * |
+| 85 | 157.275 | 161.875 | VHF Data Exchange System * |
+| 87 | 157.375 | | Port Operations |
+| 88 | 157.425 | | Port Operations |
 | 1019 | 156.950 | | Port Operations |
+| 1026 | 157.300 | | VHF Data Exchange System |
+| 1027 | 157.350 | | Port Operations |
+| 1028 | 157.400 | | Port Operations |
+| 1086 | 157.325 | | VHF Data Exchange System |
 | 2006 | 160.900 | | Experimental use in relation to Radiotelephony, Digital Selective Calling and Automatic Identification System |
-|2019 | | 161.550 | Port Operations |
+| 2019 | | 161.550 | Port Operations |
+| 2026 | | 161.900 | VHF Data Exchange System |
+| 2027 | 161.950 | | ASM1 Application Specific Messaging |
+| 2028 | 162.000 | | ASM2 Application Specific Messaging |
+| 2086 | | 161.925 | VHF Data Exchange System |
+| AIS1 | 161.975 | | Automatic Identification System |
+| AIS2 | 162.025 | | Automatic Identification System |
 
+\* Channels 24, 84, 25 and 85 may be merged in order to form a unique duplex
+channel with a bandwidth of 100 kHz in order to operate the VDES terrestrial
+component described in the most recent version of Recommendation ITU-R M.209
+(WRC-15) of the ITU.
+
+[Marine Frequencies file for Chirp](./Resources/MarineChannels.csv)
 
 This information gathered from <https://www.acma.gov.au/vhf-maritime-mobile-band-channel-allocations>
 
