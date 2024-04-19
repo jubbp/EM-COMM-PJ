@@ -26,6 +26,7 @@
   - [Emergency Services Radio](#emergency-services-radio)
   - [Maritime Radio Frequencies](#maritime-radio-frequencies)
     - [VHF Maritime Frequencies](#vhf-maritime-frequencies)
+    - [HF Maritime Frequencies](#hf-maritime-frequencies)
   - [Citizens Band (CB) Radio](#citizens-band-cb-radio)
   - [AusTavel Safety Net](#austavel-safety-net)
   - [Useful Amateur Radio Frequencies](#useful-amateur-radio-frequencies)
@@ -254,6 +255,14 @@ frequency.
 channel with a bandwidth of 100 kHz in order to operate the VDES terrestrial
 component described in the most recent version of Recommendation ITU-R M.209
 (WRC-15) of the ITU.
+
+#### HF Maritime Frequencies
+
+| Frequency | Notes |
+|---|---|
+| 4125 | Continuous Watch & Distress |
+| 6215 | Continuous Watch & Distress |
+| 8291 | Continuous Watch & Distress |
 
 [Marine Frequencies file for Chirp](./Resources/MarineChannels.csv)
 
