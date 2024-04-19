@@ -158,7 +158,7 @@ Below is some reference material collected from various sources.
 
 **TODO:** Document BOM weather radio and weather fax freuqncies and procedures.
 
-**TODO:** Find some information regarding WAPOL and STJOHN's radio networks for reference.
+**TODO:** Find some information regarding WAPOL radio networks for reference.
 
 **TODO:** SES radio resources??
 
@@ -179,6 +179,8 @@ frequency.
 [WAERN Frequency List (Markdown)](./ESR.md)  
 [WAERN Frequency List (PDF)](./Resources/WARSUG-WAERN-freqs.pdf)  
 [WAERN Channel (Chirp Import CSV)](./Resources/WAERN-FREQ-IMPORT-CHIRP.csv)
+
+[St John's Smbulance Radio Freq (WA)](./Resources/sjawa.pdf)
 
 ### Maritime Radio Frequencies
 
