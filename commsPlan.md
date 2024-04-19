@@ -14,15 +14,16 @@ In the event of an emergency the following is my plan for communications.
 
 ### Shack Equipment
 
-Yaesu FT-817 HF/VHF/UHF Transciever
-Icom IC-705 HF/VHF/UHF Transciever
-Icom IC-751 HF Transciever
-Uniden UN700NB UHF CB Transciever
-Kenwood Manual Tuner
+- Transceivers
+  - Yaesu FT-857D HF/VHF/UHF Transciever
+  - Icom IC-705 HF/VHF/UHF Transciever
+  - Icom IC-751 HF Transciever
+  - Uniden UN700NB UHF CB Transciever
 
-BushComm EndFed Trapped Halfwave 40-10m
-Comet GP andtenna for 2m and 70cm
-
+- Antennas
+  - Kenwood Manual Tuner 160-10m
+  - BushComm EndFed Trapped Halfwave 40-10m
+  - Comet GP andtenna for 2m and 70cm
 
 ## Voice Communications
 
