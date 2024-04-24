@@ -45,3 +45,14 @@ In the event of an emergency the following is my plan for communications.
   - Telnet via Internet
   - HF via VK6ARG (40m Vara HF)
 - Monitor APRS messaging on 145.175 Mhz FM
+
+## Training and Practice 
+
+### Bunbury Radio Club Net
+
+- Thursday 7:30 Pm
+- VK6BRC 2m Repeater
+- FM communication with club members. Testing transceiver and antenna system. 
+- Establish relationships with local hams 
+
+ 
