@@ -138,6 +138,7 @@ If nobody knows how to use it, how will they know how to do it when it’s reall
 - AREDN
 - email
 - [aprsd](./aprsd.md)
+- [Paging](./pagers.md)
 
 **TODO:**  "How to" page for basic operation of each tool.
 
