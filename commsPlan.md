@@ -4,11 +4,28 @@ In the event of an emergency the following is my plan for communications.
 
 ## Table of Contents <!-- omit from toc -->
 
+- [PACE Plan](#pace-plan)
+- [GhostNet Protocol](#ghostnet-protocol)
+  - [GhostNet Preparation](#ghostnet-preparation)
 - [Capabilities](#capabilities)
   - [Shack Equipment](#shack-equipment)
 - [Voice Communications](#voice-communications)
 - [Information Gathering](#information-gathering)
 - [Digital Communications](#digital-communications)
+
+## PACE Plan
+
+## GhostNet Protocol
+
+The GhostNet is a communications protocol for use as needed in a grid down and
+even into a time of war. It is a protocol which is designed to allow communication
+during times of trouble. The complete GHOSTNet protocol is a little over the top
+but I have pulled out the essentials which will allow communications among fellow
+participants.
+
+### GhostNet Preparation
+
+The GhostNext indicates a regular net on Thursday Evenings
 
 ## Capabilities
 
