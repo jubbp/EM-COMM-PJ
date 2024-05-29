@@ -1,0 +1,29 @@
+
+<head>
+    <link href="./FormStyle.css" rel="stylesheet" type="text/css" /> </head>
+   
+    <form class="form-container" id='IncidentReport' method='post' action='http://{FormServer}:{FormPort}' enctype='multipart/form-data'> 
+    <div class="form-title"><h2>GhostNet Check In</h2></div>
+    <div class="form-title">Callsign</div>
+    <input type='text' name='Callsign' value='{Callsign}'>
+
+    <p>
+    <div class="form-title">Checkin Time</div>
+    <input type='text' name='IncidentTime' value='{DateTime}'> <p>
+    <div class="form-title">Checkin Type</div>
+    <select name='Severity'>
+    <option value="Exercise Checkin" selected>Exercise Checkin</option>
+    <option value="Informational Checkin">Informational Checkin</option> 
+    <option value="Assistance Request">Assistance Request</option>
+    <option value="Emergency Request">Emergency Request</option>
+    </select>
+    <p>
+    <div class="form-title">Description of request</div>
+    <textarea name="Description" rows="6" cols="20"></textarea>
+    <br>
+    <p>
+    <input type='submit' name='Submit' value='Submit' method='Post' enctype='multipart/form-data' /> </p>
+    <p class="form-footer">
+        GNAUSWA Checkin Form v0.1
+    </p>
+    </form>
