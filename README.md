@@ -1,13 +1,7 @@
 # 🦺 Emcomm Notes by Phil VK6DEV <!-- omit from toc -->
 
-<style>
-.img-align-right {
-    float: right;
-    margin: 0 0 0 15px;
-}
-</style>
-
-<img src="./Images/IMG_1691.PNG" class="img-align-right" width="50" alt="EmComm Logo">
+<img src="./Images/IMG_1691.PNG" class="img-align-right"
+style="float: right; margin: 0 0 0 15px;" width="50" alt="EmComm Logo">
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -31,6 +25,7 @@
   - [Band Plans](#band-plans)
   - [Emergency Management Agencies (Australia)](#emergency-management-agencies-australia)
 - [Amatuer Radio Emergency Beacon Project](#amatuer-radio-emergency-beacon-project)
+- [Useful Information during EmComm Event](#useful-information-during-emcomm-event)
 
 ## Introduction
 
@@ -38,7 +33,7 @@ This document is my work to investigate and document an emcomms methodology.
 This EmComm plan is designed for my own use and as such will largely focus on
 Western Australia 🇦🇺, but the concepts will be transferable to most locations.
 
-This is a living document, it will change and grow over time so make sure you 
+This is a living document, it will change and grow over time so make sure you
 come back regularly.
 
 Collaboration is encouraged. These documents hosted on GitHub and editable by all.
@@ -181,7 +176,6 @@ frequency.
 
 [St John's Smbulance Radio Freq (WA)](./Resources/sjawa.pdf)
 
-
 ### Martime Radio
 
 Check out the Maritime Radio page [here.](./maritime-Radio.md)
@@ -212,9 +206,11 @@ These documents are available from [The ACMA Wesbite](http://www.legislation.gov
 
 | Frequencies | Description |
 | --- | --- |
+| 26.965 - 27.405 | CB Radio HF |
 | 144.000 - 148.000 | Amateur Radio 2m Band |
-| 156.000 - 162.050 | Marine Radio VHF Band
+| 156.000 - 162.050 | Marine Radio VHF Band |
 | 430.000 - 450.000 | Amateur Radio 70cm Band |
+| 476.425 - 477.4125 | CB Radio UHF |
 
 ### Emergency Management Agencies (Australia)
 
@@ -225,12 +221,29 @@ These documents are available from [The ACMA Wesbite](http://www.legislation.gov
 - Western Australia Govt.
   - [Emergency WA](https://www.emergency.wa.gov.au)
   - [State Emergency Management Committee](https://www.wa.gov.au/organisation/state-emergency-management-committee)
-  -  [WALGA Emergency Management](https://walga.asn.au/policy-and-advocacy/our-policy-areas/emergency-management)
+  - [WALGA Emergency Management](https://walga.asn.au/policy-and-advocacy/our-policy-areas/emergency-management)
   - [SES Cummunications Support Unit](https://csu-ses.com.au)
-  - [Dept of Fire & Emergency Services](https://www.dfes.wa.gov.au) 
-
+  - [Dept of Fire & Emergency Services](https://www.dfes.wa.gov.au)
+  
 ## Amatuer Radio Emergency Beacon Project
 
 Lets design an information, gathering, storing and deceminating system.
 
 Check out the [design and specifications](./AREIB/AREIB.md)
+
+## Useful Information during EmComm Event
+
+- Road Conditions
+  - Road Closures
+- Utilities
+  - Electricity
+  - Water
+  - Internet
+  - Mobile Telephones
+- Services Status
+  - Hospital
+  - Ambulance Service
+  - Fire Service
+  - Schools
+  - Evacuation Centres
+  
