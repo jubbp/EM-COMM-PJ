@@ -34,7 +34,7 @@ The GhostNext indicates a regular net on Thursday Evenings
 ### Shack Equipment
 
 - Transceivers
-  - Icom IC-7300 HF Transiever [Manual](./Resources/Manuals/)
+  - Icom IC-7300 HF Transiever :link: [Manual](./Resources/Manuals/Icom/IC-7300/IC-7300_ENG_FM_12a.pdf)
   - Yaesu FT-857D HF/VHF/UHF Transciever
   - Icom IC-705 HF/VHF/UHF Transciever
   - Icom IC-751 HF Transciever
