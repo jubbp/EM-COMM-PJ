@@ -12,6 +12,8 @@ In the event of an emergency the following is my plan for communications.
 - [Voice Communications](#voice-communications)
 - [Information Gathering](#information-gathering)
 - [Digital Communications](#digital-communications)
+- [Training and Practice](#training-and-practice)
+  - [Bunbury Radio Club Net](#bunbury-radio-club-net)
 
 ## PACE Plan
 
@@ -32,6 +34,7 @@ The GhostNext indicates a regular net on Thursday Evenings
 ### Shack Equipment
 
 - Transceivers
+  - Icom IC-7300 HF Transiever [Manual](./Resources/Manuals/)
   - Yaesu FT-857D HF/VHF/UHF Transciever
   - Icom IC-705 HF/VHF/UHF Transciever
   - Icom IC-751 HF Transciever
