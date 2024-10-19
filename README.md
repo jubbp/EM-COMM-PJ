@@ -11,6 +11,7 @@ style="float: right; margin: 0 0 0 15px;" width="50" alt="EmComm Logo">
   - [Who may need our assistance](#who-may-need-our-assistance)
 - [Security Considerations](#security-considerations)
 - [Information is King](#information-is-king)
+- [Wireless Institute Civil Emergency Network WICEN](#wireless-institute-civil-emergency-network-wicen)
 - [VK6DEV Comm Plan](#vk6dev-comm-plan)
 - [Training](#training)
 - [Tools](#tools)
@@ -104,6 +105,10 @@ To gather information you can:
 
 A central location for verified information is important. From this central location
 others should be able retieve the information.
+
+## Wireless Institute Civil Emergency Network WICEN
+
+Further WICEN Information available [here.](./wicen.md)
 
 ## VK6DEV Comm Plan
 
