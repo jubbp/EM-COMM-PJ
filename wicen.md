@@ -4,7 +4,12 @@
 
 - [Introduction](#introduction)
 - [Preparedness Checklist](#preparedness-checklist)
+  - [General WICEN Preparedness Checklist](#general-wicen-preparedness-checklist)
 
 ## Introduction
 
 ## Preparedness Checklist
+
+### General WICEN Preparedness Checklist
+
+
