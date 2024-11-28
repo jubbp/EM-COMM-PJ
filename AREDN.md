@@ -3,6 +3,8 @@
 ## Table of Contents <!-- omit from toc -->
 
 - [Introduction](#introduction)
+- [Why AREDN?](#why-aredn)
+- [The DownSides](#the-downsides)
 - [How To's](#how-tos)
   - [How do I get my node on the map](#how-do-i-get-my-node-on-the-map)
 - [What can we do on ARDEN networks](#what-can-we-do-on-arden-networks)
@@ -18,6 +20,20 @@ options are failing.
 
 [www.arednmesh.org](www.arednmesh.org)
 
+## Why AREDN?
+
+Why Not just use standard WIFI?
+
+- Auto network configuration
+- Mesh Network - Self Healing
+
+## The DownSides
+
+- No Encryption Allowed
+  - Even the Web Tunnels as not encrypted
+  - You must not allow encrypted web traffic to pass through your nodes
+- Limited hardware selection
+  
 ## How To's
 
 ### How do I get my node on the map
@@ -26,11 +42,11 @@ You've worked your way through the setup of an AREDN node and eagerly jump over
 the the website to check if your node is on the map. Only to find that there's
 nothing there.
 
-The follow must be done to show on the map.
+The following must be done to show on the map.
 
-- You must enter your lat and log into the nad interface.
+- You must enter your lat and log into the node interface.
 - You must link to the greater AREDN network in some way. This ia probably
-  going to be by a tunnel or by and RF link if you are locky enough to have one nearby.
+  going to be by a tunnel or by and RF link if you are lucky enough to have one nearby.
 
 ## What can we do on ARDEN networks
 
@@ -47,4 +63,6 @@ Resilient chat communications
 
 PBX based on direct IP calling
 
-** AREDN and the AREDN logot a trademarks not owned by me.
+-------
+
+** AREDN and the AREDN logo are trademarks not owned by me.
