@@ -135,7 +135,6 @@ If nobody knows how to use it, how will they know how to do it when it’s reall
 - [Winlink email](./Winlink.md)
 - JS8Call
 - VaraAC
-- AREDN
 - email
 - [aprsd](./aprsd.md)
 - [Paging](./pagers.md)
