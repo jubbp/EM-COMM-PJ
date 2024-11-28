@@ -139,8 +139,7 @@ If nobody knows how to use it, how will they know how to do it when it’s reall
 - email
 - [aprsd](./aprsd.md)
 - [Paging](./pagers.md)
-
-**TODO:**  "How to" page for basic operation of each tool.
+- [AREDN (Amateur Radio Emergency Data Network)](./AREDN.md)
 
 ## Resources
 
