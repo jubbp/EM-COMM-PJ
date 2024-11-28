@@ -27,6 +27,7 @@ Why Not just use standard WIFI?
 
 - Auto network configuration
 - Mesh Network - Self Healing
+- "Ham only" channels available
 
 ## The DownSides
 
