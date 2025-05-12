@@ -79,6 +79,11 @@ and would only be used a few times globally.
 - \-14 Interstate Truckers
 - \-15 Operation via HF
 
+## APRS Messaging
+
+APRS provides a method for messaging between stations. 
+
+
 ## APRS REFERNCE DOCUMENTATION
 
 [aprs.org](http://www.aprs.org)
