@@ -35,5 +35,5 @@ Email: <wicenwa@outlook.com> , <cq@wicenwa.org>
 ### Timeline
 
 | Date | Event Details |
-| 30/05/2025 | Dementia Walk - WICENWA Activated with VK6KW, VK6XLZ, VK6KW 
-setting up and managing repeater communications for the event |
+| 30/05/2025 | Dementia Walk - WICENWA Activated with VK6KW, VK6XLZ, VK6KW setting up and managing repeater communications for the event |
+

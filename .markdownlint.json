@@ -1,12 +1,12 @@
 {
-    "MD033": {
-      "allowed_elements": [
-        "img"
-      ]
-    },
-    "MD013": {
-      "line_length": 80,
-      "code_block_line_length": 120,
-      "tables": false
-    }
+  "MD033": {
+    "allowed_elements": [
+      "img"
+    ]
+  },
+  "MD013": {
+    "line_length": 80,
+    "code_block_line_length": 120,
+    "tables": false
   }
+}
