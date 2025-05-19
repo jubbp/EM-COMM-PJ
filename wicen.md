@@ -8,6 +8,7 @@
   - [General WICEN Preparedness Checklist](#general-wicen-preparedness-checklist)
 - [WICENWA History](#wicenwa-history)
   - [Committee](#committee)
+  - [Timeline](#timeline)
 
 ## Introduction
 
@@ -31,3 +32,8 @@ Email: <wicenwa@outlook.com> , <cq@wicenwa.org>
 | 2024/25 | Mark VK6XLZ |  | Bob VK6KW | Kevin VK6KQ |. |
 | 2025/26 |. |. |. .| |. |
 
+### Timeline
+
+| Date | Event Details |
+| 30/05/2025 | Dementia Walk - WICENWA Activated with VK6KW, VK6XLZ, VK6KW 
+setting up and managing repeater communications for the event |
