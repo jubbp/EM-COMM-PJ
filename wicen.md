@@ -3,12 +3,21 @@
 ## Table of Contents <!-- omit from toc -->
 
 - [Introduction](#introduction)
+- [Contact Details](#contact-details)
 - [Preparedness Checklist](#preparedness-checklist)
   - [General WICEN Preparedness Checklist](#general-wicen-preparedness-checklist)
 - [WICENWA History](#wicenwa-history)
   - [Committee](#committee)
 
 ## Introduction
+
+## Contact Details
+
+Website: [www.wicenwa.org](www.wicenwa.org)
+
+Postal Address:  PO Box 425, Cannington WA 6987
+
+Email: <wicenwa@outlook.com> , <cq@wicenwa.org>
 
 ## Preparedness Checklist
 
