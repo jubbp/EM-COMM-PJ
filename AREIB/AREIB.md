@@ -3,10 +3,12 @@
 ## Table of Contents <!-- omit from toc -->
 
 - [Purpose](#purpose)
+- [Components](#components)
 - [Naming Options](#naming-options)
 - [Gathering](#gathering)
   - [A Services Status](#a-services-status)
 - [Storing](#storing)
+  - [System Information](#system-information)
   - [Basic Message Storage](#basic-message-storage)
   - [Service Status Message Storage](#service-status-message-storage)
   - [Message Types](#message-types)
@@ -25,8 +27,14 @@ Lets design an information, gathering, storing and deceminating system.
 The AREIB is a system of information sharing building situational awareness
 among a group of like minded amateru radio operators.
 
+## Components
 
-
+- Server system
+  - Database Storage solutions
+  - webserver
+    - Web Interface
+    - API
+  
 ## Naming Options
 
 What should we call this project? Some options for consideration:
@@ -91,6 +99,25 @@ A person/organisation/location that may have some sort of status indicator
 - Messages should have expiry
 
 Lets define a data model...
+
+### System Information
+
+The basic information about an autonimous system to allow intercommunication 
+between systems
+
+````json
+{
+  id : String,  // A GUID for the system
+  name: String, // The Name of this system
+  stationCall: String // Call sign for this station
+  capabilities: {
+    "APRS":Boolean,
+    "JS8CALL": Boolean,
+    "AREDN": Boolean,
+    "TCPIP":Boolean,
+    "PACKET": Boolean
+  } 
+}
 
 ### Basic Message Storage
 
