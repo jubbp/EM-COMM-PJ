@@ -2,6 +2,7 @@
 
 ## Table of Contents <!-- omit from toc -->
 
+- [Purpose](#purpose)
 - [Naming Options](#naming-options)
 - [Gathering](#gathering)
   - [A Services Status](#a-services-status)
@@ -18,6 +19,13 @@
   - [HF Digtial](#hf-digtial)
 
 Lets design an information, gathering, storing and deceminating system.
+
+## Purpose
+
+The AREIB is a system of information sharing building situational awareness
+among a group of like minded amateru radio operators.
+
+
 
 ## Naming Options
 
@@ -49,19 +57,20 @@ A person/organisation/location that may have some sort of status indicator
 }
 
 "location": {
-    "type": string, (fixed,roaming)
-    "lat": string, (-33.123456)
-    "lon": String, (115.123456)
-    "locator" : String, (OF76to)
-    "streetAddr" : String, (Cnr William & Hay St)
+    "type": string,        // (fixed,roaming)
+    "lat": string,         // (-33.123456)
+    "lon": String,         // (115.123456)
+    "locator" : String,    // (OF76to)
+    "streetAddr" : String, // (Cnr William & Hay St)
+    "source": String       // "GPS","Manual"
   }
 
 
 "status": {
-    "code": Integer, (0-5)
-    "time": dateTime String, ()
-    "message" : String,
-    "
+    "code": Integer,          // (0-5)
+    "time": dateTime String,  // ()
+    "message" : String,       // "Situation Normal"
+    "ttl" : integer           // Seconds for information to be valid
 }
 
 "resource": {

@@ -139,6 +139,7 @@ If nobody knows how to use it, how will they know how to do it when it’s reall
 - [aprsd](./aprsd.md)
 - [Paging](./pagers.md)
 - [AREDN (Amateur Radio Emergency Data Network)](./AREDN.md)
+- [AREIB (Amateur Radio Information Beacon)](./AREIB/AREIB.md)
 
 ## Resources
 
