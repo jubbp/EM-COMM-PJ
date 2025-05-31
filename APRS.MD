@@ -9,6 +9,8 @@ Automatic Packet Reporting System
 - [Operating APRS in an Emergency](#operating-aprs-in-an-emergency)
 - [APRS Bots and Auto Stations](#aprs-bots-and-auto-stations)
 - [Standard SSID's](#standard-ssids)
+- [APRS Messaging](#aprs-messaging)
+- [APRS BBS](#aprs-bbs)
 - [APRS REFERNCE DOCUMENTATION](#aprs-refernce-documentation)
 
 ## History of APRS
@@ -83,6 +85,16 @@ and would only be used a few times globally.
 
 APRS provides a method for messaging between stations. 
 
+## APRS BBS
+
+Youtube blogger [TheCommsChennel](https://www.youtube.com/@The_Comms_Channel)
+has done some work on developing an APRS based bulletin board system (BBS)
+called TC2BBS.
+
+The TC2BBS is still indevelopment (2025) but currently allows you to use APRS to
+access and post to a bulletin Board using APRS messaging.
+
+Check out the code on [Github](https://github.com/TheCommsChannel/TC2-BBS-mesh)
 
 ## APRS REFERNCE DOCUMENTATION
 
